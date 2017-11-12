@@ -23,7 +23,7 @@ if string === string.toLowerCase(){
 
   var message = "I can't hear you!";
 
-} 
+}
 
   return message;
 }
