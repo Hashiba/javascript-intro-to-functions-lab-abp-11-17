@@ -18,13 +18,12 @@ console.log(string.toLowerCase())
 
 function sayHiToGrandma(string) {
 
+var message = "Hi";
 if string === string.toLowerCase(){
 
   var message = "I can't hear you!";
 
-} else {
-  message = "you've failed";
-}
+} 
 
   return message;
 }
